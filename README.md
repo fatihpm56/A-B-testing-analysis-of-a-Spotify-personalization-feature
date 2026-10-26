@@ -33,6 +33,13 @@ An A/B testing analysis evaluating a new personalization feature/algorithm (**Ta
 
 ## 📊 Key Results
 
+<img width="889" height="396" alt="image" src="https://github.com/user-attachments/assets/96944adf-8896-473b-9298-72bbdbf141e6" />
+
+<img width="590" height="409" alt="image" src="https://github.com/user-attachments/assets/0228aa31-0a15-4bfa-9441-2935547687b2" />
+
+<img width="690" height="390" alt="image" src="https://github.com/user-attachments/assets/f1536dd8-7c13-499f-93a6-3684d680438e" />
+
+
 | Metric | Control | Target | Difference | p-value |
 |---|---|---|---|---|
 | Engagement (mean) | 0.600 | 0.800 | +0.200 (+33.3%) | < 0.001 |
@@ -43,6 +50,8 @@ An A/B testing analysis evaluating a new personalization feature/algorithm (**Ta
 H0 is rejected for all four metrics. Effect sizes are large (Cohen's d ≈ 2.0 for Engagement, ≈ 1.3 for Duration Played). The Payment Rate lift holds across both Free (79.9%) and Premium (79.8%) users in Target, so it is not just a subscription-tier composition effect.
 
 ### Post-Implementation Monitoring
+
+<img width="889" height="419" alt="image" src="https://github.com/user-attachments/assets/8aa5808e-1f51-4512-b87c-8aacbe9b50e4" />
 
 | Period | Avg. Users/Day | Change |
 |---|---|---|
