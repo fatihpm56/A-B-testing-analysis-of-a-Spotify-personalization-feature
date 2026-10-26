@@ -33,9 +33,7 @@ An A/B testing analysis evaluating a new personalization feature/algorithm (**Ta
 
 ## 📊 Key Results
 
-<img width="889" height="396" alt="image" src="https://github.com/user-attachments/assets/96944adf-8896-473b-9298-72bbdbf141e6" /> <img width="590" height="409" alt="image" src="https://github.com/user-attachments/assets/0228aa31-0a15-4bfa-9441-2935547687b2" />
-<img width="690" height="390" alt="image" src="https://github.com/user-attachments/assets/f1536dd8-7c13-499f-93a6-3684d680438e" />
-
+<img width="1171" height="602" alt="image" src="https://github.com/user-attachments/assets/deb9e683-83f8-4dc4-b8d8-fcaa8bb29ab7" />
 
 | Metric | Control | Target | Difference | p-value |
 |---|---|---|---|---|
